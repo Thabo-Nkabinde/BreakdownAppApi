@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{78E57496-435E-42E9-8406-A707AC21EC3E}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BreakdownApi/Controllers/BreakdownController.cs">
+    <Files>
+      <File FileName="BreakdownApi/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="BreakdownApi/Controllers/BreakdownController.cs" Line="47" Column="47" />
+      <File FileName="BreakdownApi/Models/Breakdown.cs" Line="1" Column="1" />
+      <File FileName="BreakdownApi/DTOs/BreakdownDto.cs" Line="9" Column="1" />
+      <File FileName="BreakdownApi/Services/IBreakdownService.cs" Line="8" Column="25" />
+      <File FileName="BreakdownApi/Services/BreakdownService.cs" Line="29" Column="37" />
+      <File FileName="BreakdownApi/Data/ApplicationDbContext.cs" Line="15" Column="1" />
+      <File FileName="BreakdownApi/appsettings.json" Line="4" Column="95" />
+      <File FileName="BreakdownApi/Program.cs" Line="27" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BreakdownApi" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/TNkabinde/Projects/BreakdownApi/BreakdownApi/Controllers/BreakdownController.cs" relfile="BreakdownApi/Controllers/BreakdownController.cs" line="44" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BreakdownApi2 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>
